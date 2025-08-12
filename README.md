@@ -4,15 +4,8 @@
         <h1>Aron Valenzuela (DEICON321)</h1>
         <p>Programador Frontend | Apasionado por la programación y la electrónica</p>
     </header>
-    <nav>
-        <a href="#sobre-mi">Sobre mí</a>
-        <a href="#habilidades">Habilidades</a>
-        <a href="#proyectos">Proyectos</a>
-        <a href="#contacto">Contacto</a>
-    </nav>
-    <section id="sobre-mi">
-        <h2>Sobre mí</h2>
-        <p>Soy Aron Valenzuela, conocido como DEICON321. Programador frontend con gran interés en aprender continuamente nuevos lenguajes, tecnologías y todo lo relacionado con programación y electrónica. Me encanta explorar nuevas herramientas y retos que amplíen mis habilidades. Actualmente resido en Valparaíso, Chile.</p>
+    <section id="">
+        <p>Aron Valenzuela, conocido como DEICON321. Programador frontend con gran interés en aprender continuamente nuevos lenguajes, tecnologías y todo lo relacionado con programación y electrónica. Me encanta explorar nuevas herramientas y retos que amplíen mis habilidades. Actualmente resido en Valparaíso, Chile.</p>
     </section>
     <section id="habilidades">
         <h2>Habilidades Técnicas</h2>
