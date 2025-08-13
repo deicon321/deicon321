@@ -7,6 +7,14 @@
     <section id="">
         <p>Aron Valenzuela, conocido como DEICON321. Programador frontend con gran interés en aprender continuamente nuevos lenguajes, tecnologías y todo lo relacionado con programación y electrónica. Me encanta explorar nuevas herramientas y retos que amplíen mis habilidades. Actualmente resido en Valparaíso, Chile.</p>
     </section>
+    <section id="formacion">
+        <h2>Formación Académica & Certificaciones</h2>
+        <ul>
+            <li><strong>INSUCO Valparaíso:</strong> Estudios de programación durante 2 años.</li>
+            <li><strong>Duoc UC:</strong> Curso de Programación Orientada a Objetos en Java (8 semanas).</li>
+            <li><strong>CFT Viña del Mar:</strong> Curso de Robótica (certificado).</li>
+        </ul>
+    </section>
     <section id="habilidades">
         <h2>Habilidades Técnicas</h2>
         <ul>
@@ -22,7 +30,7 @@
         <p>Desarrollo de páginas web con sistema de inicio de sesión para usuarios, simulando plataformas de streaming.</p>
         <p><strong>Logros:</strong> Calificaciones perfectas en evaluaciones escolares.</p>
         <p><strong>Tecnologías usadas:</strong> HTML, CSS, JavaScript, Python (para backend básico), MySQLite.</p>
-        ![Texto alternativo](https://github.com/deicon321/deicon321/blob/main/aron.jpg)
+        <img src="https://github.com/deicon321/deicon321/raw/main/aron.jpg" alt="Foto de Aron" width="300">
     </section>
     <section id="contacto" class="contacto">
         <h2>Contacto</h2>
