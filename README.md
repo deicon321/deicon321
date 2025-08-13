@@ -31,4 +31,5 @@
     <footer>
         <p>&copy; 2025 Aron Valenzuela - Portafolio</p>
     </footer>
+    []
 </body>
