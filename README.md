@@ -22,7 +22,7 @@
         <p>Desarrollo de páginas web con sistema de inicio de sesión para usuarios, simulando plataformas de streaming.</p>
         <p><strong>Logros:</strong> Calificaciones perfectas en evaluaciones escolares.</p>
         <p><strong>Tecnologías usadas:</strong> HTML, CSS, JavaScript, Python (para backend básico), MySQLite.</p>
-        ![Texto alternativo](https://github.com/deicon321/deicon321/blob/main/aron.jpeg)
+        ![Texto alternativo](https://github.com/deicon321/deicon321/blob/main/aron.jpg)
     </section>
     <section id="contacto" class="contacto">
         <h2>Contacto</h2>
